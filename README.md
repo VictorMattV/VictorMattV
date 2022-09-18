@@ -1,7 +1,7 @@
 ### Hi there! I'm Victor
 
 <ul dir="auto">
-<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"><img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji> I’m currently learning Web Development at @betrybe</li>
+<li><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"><img class="emoji" alt="computer" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png"></g-emoji> I’m currently learning Web Development at trybe</li>
 <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"><img class="emoji" alt="mailbox" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png"></g-emoji> Contact me: <a href="mailto:victormathmoreira@gmail.com">victormathmoreira@gmail.com</a></li>
 </ul>
 
